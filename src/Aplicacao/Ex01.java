@@ -6,8 +6,7 @@ public class Ex01 {
         
         String nome;
         nome = "Davi";
-        System.out.println(nome);
-        
+        System.out.println(nome);        
         
     }
     
